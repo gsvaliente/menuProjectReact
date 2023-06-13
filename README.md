@@ -7,4 +7,3 @@ It uses state to save the information, as well as **new Set** to create unique i
 More entries can be added by inserting them in the data.js.
 
 Prop drilling was used to share information to the child components.
-# menuProjectReact
